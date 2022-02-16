@@ -9,8 +9,10 @@ namespace Ejercicios{
             //Ejercicio1.Llenado();
 
             //Ejercicio2.OrdenInverso();   
-                     
-            Ejercicio3.NotasObtenidas();
+
+            //Ejercicio3.NotasObtenidas();
+
+            Ejercicio4.RellenarVector();
 
         }
     }
