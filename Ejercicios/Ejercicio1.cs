@@ -30,7 +30,9 @@ namespace Ejercicios
 
             foreach(int var in vector_numeros){
 
-                System.Console.WriteLine(var);
+                System.Console.WriteLine("Elemento del vector: " + var + "\nSu cuadrado: "+ Math.Pow(var,2) + "\nSu cubo: "+ Math.Pow(var,3)) ;
+
+                System.Console.WriteLine();
 
             }
 
