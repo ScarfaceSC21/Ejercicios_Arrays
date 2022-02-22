@@ -14,7 +14,9 @@ namespace Ejercicios{
 
             //Ejercicio4.RellenarVector();
 
-            Ejercicio5.OrdenarVector();
+            //Ejercicio5.OrdenarVector();
+
+            Ejercicio6.NumeroMes();
 
         }
     }
