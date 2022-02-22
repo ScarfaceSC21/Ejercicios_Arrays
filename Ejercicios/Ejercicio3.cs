@@ -25,10 +25,7 @@ namespace Ejercicios
                 notas[i] = int.Parse(Console.ReadLine());
             }
 
-            for(int i = 0; i < 5; i++){
-
-                suma = suma + notas[i];
-            }
+            suma = notas.Sum();
 
             nota_media = suma / 5;
 

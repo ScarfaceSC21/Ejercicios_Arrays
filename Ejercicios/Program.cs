@@ -6,7 +6,7 @@ namespace Ejercicios{
         
         static void Main(string[] args){
 
-            Ejercicio1.Llenado();
+            //Ejercicio1.Llenado();
 
             //Ejercicio2.OrdenInverso();   
 
