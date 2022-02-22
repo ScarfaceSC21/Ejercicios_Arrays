@@ -14,6 +14,8 @@ namespace Ejercicios{
 
             //Ejercicio4.RellenarVector();
 
+            Ejercicio5.OrdenarVector();
+
         }
     }
 }
